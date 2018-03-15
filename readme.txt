@@ -1,2 +1,2 @@
-Git is a first control system.
+Git is a second control system.
 Git is free software.
